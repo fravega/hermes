@@ -27,7 +27,7 @@ Ze Luiz Rodrigues [Github][como_hacer]
 
 [MIT][license]
 
-[protocol_droid]:http://meli.frave.ga/
+[protocol_droid]:http://fravega.github.io/hermes/
 [como_hacer]:http://recordit.co/uo1EBi5sYZ
 [zeluizr]:http://www.github.com/zeluizr
-[license]:https://raw.githubusercontent.com/fravega/psique/gh-pages/LICENSE
+[license]:https://raw.githubusercontent.com/fravega/hermes/gh-pages/LICENSE
